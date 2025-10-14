@@ -1,0 +1,56 @@
+
+
+You are an AI assistant tasked with providing current weather information. Based on the user input "weather of hong kong today", generate a comprehensive weather report that includes:
+
+- Current weather conditions (temperature, humidity, wind)
+- Today's forecast with high/low temperatures
+- General weather description (sunny, cloudy, rainy, etc.)
+- Any relevant weather warnings or alerts
+- Brief outlook for the next 24 hours
+
+The response should be:
+- Concise yet informative
+- Use metric units (Celsius, mm for rainfall)
+- Include specific data points where available
+- Present information in a clear, easy-to-read format
+- Focus only on today's weather, not extended forecasts
+
+Return only the weather report with no preamble or additional commentary.
+
+-----------------------------------------------------------
+
+
+
+Create a detailed and specific prompt for an AI language model to provide comprehensive weather information for Hong Kong today (October 13, 2025). The prompt should:
+
+- Instruct the AI to deliver current weather conditions including temperature (high/low), humidity levels, precipitation chances, wind conditions, and UV index
+- Request a clear description of the overall weather pattern (e.g., sunny, cloudy, rainy, thunderstorms)
+- Specify that the response should include "feels like" temperature and any weather warnings or alerts
+- Require information about sunrise/sunset times
+- Request a brief outlook for the remainder of the day if applicable
+- Ensure the response uses clear, accessible language suitable for general audiences
+- Specify temperature units (both Celsius and Fahrenheit if possible)
+- Limit the response to factual, current weather data without unnecessary elaboration
+- Format the information in a logical, easy-to-read structure with relevant details organized by category
+- Exclude any URLs, links, or source citations from the final output
+
+The prompt should be concise yet comprehensive enough to generate a complete weather report that directly answers the user's query about Hong Kong's weather today.
+
+-----------------------------------------------------------
+
+
+
+Create a detailed and effective prompt for an AI language model to retrieve comprehensive weather information for Hong Kong today. Your prompt should:
+
+- Explicitly request current weather conditions for Hong Kong on the specific date
+- Include requirements for key weather metrics: temperature (current, high, low), humidity levels, wind speed and direction, precipitation probability, and any active weather warnings or alerts
+- Specify that the information should be accurate, current, and sourced from reliable meteorological data
+- Request a well-structured format with clear sections for current conditions, hourly breakdown, and any relevant weather advisories
+- Include context about seasonal weather patterns if relevant to the current conditions
+- Ensure the response uses metric units (Celsius, millimeters, kilometers per hour) appropriate for Hong Kong
+- Require precise timestamps and location-specific data for Hong Kong SAR
+
+The prompt must be clear, specific, and optimized to generate a comprehensive weather report that provides all essential information a user would need to plan their day in Hong Kong.
+
+-----------------------------------------------------------
+
