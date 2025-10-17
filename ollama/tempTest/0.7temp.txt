@@ -1,0 +1,16 @@
+"Create a well-structured and detailed AI prompt for analyzing the current weather conditions in Hong Kong, specifically focusing on the present day's weather, incorporating necessary context such as date, temperature range, precipitation levels, wind speed, and any notable weather phenomena or advisories."
+
+-----------------------------------------------------------
+
+Create a detailed and well-structured prompt for an AI language model to generate a report on the current weather conditions in Hong Kong, specifically tailored to user input "weather of Hong Kong today", with the following requirements: 
+
+Generate a concise and clear prompt that includes necessary context, constraints, and formatting guidelines to maximize the quality and relevance of the generated prompt.
+
+-----------------------------------------------------------
+
+Here is the generated prompt:
+
+"Create a well-structured prompt for an AI language model to provide detailed information about the weather in Hong Kong as of today. The prompt should clearly state the subject matter, specifying that it refers to current weather conditions in Hong Kong. Ensure the prompt is concise, clear, and contextually relevant. Include any necessary context, constraints, or formatting guidelines to maximize the quality and relevance of the generated response. Return only the prompt text, without additional commentary or explanation."
+
+-----------------------------------------------------------
+

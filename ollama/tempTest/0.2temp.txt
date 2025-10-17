@@ -1,0 +1,12 @@
+"Craft a well-structured prompt for an AI language model to provide detailed information about the current weather conditions in Hong Kong, including temperature, humidity, wind speed, and any notable weather phenomena or forecasts, ensuring clarity, concision, and contextual relevance."
+
+-----------------------------------------------------------
+
+"Craft a detailed prompt for an AI language model to generate information about the current weather conditions in Hong Kong, specifically focusing on the present day's weather, including temperature, humidity, wind speed, and any notable weather phenomena or forecasts."
+
+-----------------------------------------------------------
+
+"Craft a well-structured prompt for an AI language model to provide detailed information about the current weather conditions in Hong Kong, specifically focusing on today's forecast. Ensure the prompt is clear, concise, and contextually relevant by including necessary details such as date, location, and any specific weather-related parameters (e.g., temperature, humidity, wind speed). Format the prompt to facilitate accurate and informative responses."
+
+-----------------------------------------------------------
+
