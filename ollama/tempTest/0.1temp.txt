@@ -1,0 +1,12 @@
+"Craft a well-structured prompt for an AI language model to provide detailed information about the current weather conditions in Hong Kong, specifically addressing the user's inquiry 'weather of Hong Kong today'. Ensure the prompt is clear, concise, and contextually relevant, including any necessary context or formatting guidelines to maximize the quality and relevance of the generated response. The output should be a single prompt text only, without any additional commentary or explanation."
+
+-----------------------------------------------------------
+
+"Craft a well-structured prompt for an AI language model to provide detailed information about the current weather conditions in Hong Kong, specifically addressing the user's inquiry 'weather of Hong Kong today'. Ensure the prompt is clear, concise, and contextually relevant by including necessary details such as date, time, location, and any specific weather-related parameters. Format the prompt to facilitate accurate and informative responses."
+
+-----------------------------------------------------------
+
+"Craft a well-structured prompt for an AI language model to provide detailed information about the current weather conditions in Hong Kong, specifically addressing the user's inquiry 'weather of Hong Kong today'. Ensure the prompt is clear, concise, and contextually relevant by including necessary details such as date, time, location, and any specific weather-related parameters. Format the prompt to facilitate accurate and informative responses."
+
+-----------------------------------------------------------
+

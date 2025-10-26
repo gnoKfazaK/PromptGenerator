@@ -1,0 +1,56 @@
+
+
+Create a detailed and specific prompt for an AI language model to provide comprehensive weather information for Hong Kong on October 13, 2025. The prompt should:
+
+- Clearly specify that current weather conditions for Hong Kong today are required, including temperature, humidity, wind conditions, and general weather description
+- Request a short-term forecast for the remainder of today and the next 7 days
+- Instruct the AI to organize the information with clear sections: current conditions first, followed by extended forecast
+- Require inclusion of specific metrics: maximum/minimum temperatures in Celsius, humidity percentages, wind speed and direction, precipitation probability, and UV index where applicable
+- Specify that any weather warnings or significant meteorological events (such as tropical storms or monsoon activity) should be highlighted
+- Emphasize a clear, scannable format using headers, bullet points sparingly, and bolded key information
+- Ensure the response is factual, data-driven, and based on the most current meteorological information available
+- Require that the tone be direct and informative without hedging language
+
+Return only the weather information in the specified format, with no preamble or additional commentary.
+
+-----------------------------------------------------------
+
+
+
+Create a comprehensive and effective prompt for an AI language model to respond to the user input: "weather of hong kong today". 
+
+Your prompt must:
+- Instruct the AI to provide current weather information for Hong Kong on today's date
+- Specify that the response should include: current temperature, humidity levels, weather conditions (sunny, cloudy, rainy, etc.), wind information, and any relevant weather warnings or advisories
+- Require the AI to present the information in a clear, well-organized format with appropriate sections
+- Include instructions to cite the current date and time zone (Hong Kong Time) for context
+- Specify that if detailed current data is unavailable, the AI should provide the most recent available weather observations and explain the time of those observations
+- Request a brief outlook for the remainder of the day if applicable
+- Emphasize that the response should be concise yet comprehensive, focusing only on today's weather without unnecessary elaboration about future forecasts unless directly relevant to today
+- Ensure the response uses metric units (Celsius, mm, km/h) as standard for Hong Kong
+- Specify that the tone should be informative and straightforward
+
+Return only the formatted prompt text that would be given to the AI, with no additional commentary, explanation, or meta-discussion.
+
+-----------------------------------------------------------
+
+
+
+You are tasked with creating an optimized prompt for an AI language model based on the following user input: "weather of hong kong today"
+
+Generate a detailed, well-structured prompt that will enable an AI to provide accurate and comprehensive weather information for Hong Kong for the current date. Your generated prompt must:
+
+1. Clearly specify the location (Hong Kong) and timeframe (today's date)
+2. Define what weather information should be included (temperature, humidity, precipitation, wind conditions, UV index, general forecast)
+3. Specify the desired format (structured sections with clear headers, use of bullet points or tables where appropriate)
+4. Include instructions for the AI to use current, real-time data or the most recent available information
+5. Request both current conditions and forecast for the remainder of the day if applicable
+6. Specify any units of measurement preferences (Celsius/Fahrenheit)
+7. Include context about whether this is for planning purposes, general information, or specific activities
+8. Set constraints on answer length and level of technical detail
+9. Specify the tone (informative, concise, user-friendly)
+
+Return only the complete prompt text that would be given to an AI model, with no additional commentary, explanations, or meta-discussion. The prompt should be immediately usable and require no further editing.
+
+-----------------------------------------------------------
+
