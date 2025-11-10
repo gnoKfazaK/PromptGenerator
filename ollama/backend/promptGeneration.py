@@ -5,7 +5,7 @@ import asyncio
 class promptGenerator():
     MODEL = 'llama3'
     prompt = ""
-    PROMPT_FILE = "../../prompt_file/prompt.txt"
+    PROMPT_FILE = "prompt.txt"
 
     def __init__(self):
         start_t = time.perf_counter()

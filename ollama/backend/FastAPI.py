@@ -1,26 +1,13 @@
 from fastapi import FastAPI
 from promptGeneration import promptGenerator
-import uvicorn
-from fastapi.middleware.cors import CORSMiddleware
-
-
 
 app = FastAPI()
 
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],  # Or specify your frontend origin
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
-
 p = promptGenerator()
-
 
 @app.get("/")
 def read_root():
-    string =  'This is roooooooooooot...'
+    string = 'Connected successfully!'
     return string
 
 @app.get("/gen")
@@ -34,16 +21,16 @@ async def generation(user_prompt: str, n_output: int = 1):
     
     return results
 
-@app.get("/test")
-def test(para: str, item: str = 'hey'):
-    return f"This is {para} {item}"
+# @app.get("/test")
+# def test(para: str, item: str = 'hey'):
+#     return f"This is {para} {item}"
 
 
 
 
-def main():
-    uvicorn.run(app, host = '0.0.0.0', port = 8000)
+# def main():
+#     uvicorn.run(app, host = '0.0.0.0', port = 8000)
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()
 
